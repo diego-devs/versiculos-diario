@@ -258,5 +258,19 @@
     "date": "2026-02-21",
     "title": "Renovar las fuerzas",
     "file": "2026-02-21.json"
+  },
+  {
+    "date": "2026-02-22",
+    "month": 2,
+    "day": 22,
+    "title": "Guardar la lengua",
+    "book": "Proverbios",
+    "reference": "Proverbios 13:3",
+    "tags": [
+      "prudencia",
+      "palabras",
+      "sabiduría",
+      "autocontrol"
+    ]
   }
 ]
