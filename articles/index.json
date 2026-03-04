@@ -379,5 +379,22 @@
     "date": "2026-03-03",
     "title": "Lámpara para el camino",
     "file": "2026-03-03.json"
+  },
+  {
+    "date": "2026-03-04",
+    "month": 3,
+    "day": 4,
+    "title": "Fuerza en la debilidad",
+    "reference": "2 Corintios 12:9",
+    "book": "2 Corintios",
+    "tags": [
+      "gracia",
+      "debilidad",
+      "poder de Dios",
+      "vulnerabilidad",
+      "Pablo",
+      "confianza",
+      "2 Corintios"
+    ]
   }
 ]
