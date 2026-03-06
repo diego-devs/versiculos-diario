@@ -1,271 +1,688 @@
 [
   {
     "date": "2026-01-01",
+    "month": 1,
+    "day": 1,
     "title": "Misericordias nuevas cada mañana",
-    "file": "2026-01-01.json"
+    "reference": "Lamentaciones 3:22-23",
+    "book": "Lamentaciones",
+    "tags": [
+      "misericordia",
+      "fidelidad",
+      "nuevo comienzo"
+    ]
   },
   {
     "date": "2026-01-02",
+    "month": 1,
+    "day": 2,
     "title": "Sé fuerte y valiente",
-    "file": "2026-01-02.json"
+    "reference": "Josué 1:9",
+    "book": "Josué",
+    "tags": [
+      "valentía",
+      "fe",
+      "presencia de Dios"
+    ]
   },
   {
     "date": "2026-01-03",
+    "month": 1,
+    "day": 3,
     "title": "El Señor es mi pastor",
-    "file": "2026-01-03.json"
+    "reference": "Salmos 23:1",
+    "book": "Salmos",
+    "tags": [
+      "provisión",
+      "confianza",
+      "Salmos"
+    ]
   },
   {
     "date": "2026-01-04",
+    "month": 1,
+    "day": 4,
     "title": "Todo lo puedo en Cristo",
-    "file": "2026-01-04.json"
+    "reference": "Filipenses 4:13",
+    "book": "Filipenses",
+    "tags": [
+      "fortaleza",
+      "contentamiento",
+      "Cristo"
+    ]
   },
   {
     "date": "2026-01-05",
+    "month": 1,
+    "day": 5,
     "title": "Confía con todo tu corazón",
-    "file": "2026-01-05.json"
+    "reference": "Proverbios 3:5-6",
+    "book": "Proverbios",
+    "tags": [
+      "confianza",
+      "sabiduría",
+      "dirección"
+    ]
   },
   {
     "date": "2026-01-06",
+    "month": 1,
+    "day": 6,
     "title": "No temas, yo estoy contigo",
-    "file": "2026-01-06.json"
+    "reference": "Isaías 41:10",
+    "book": "Isaías",
+    "tags": [
+      "miedo",
+      "protección",
+      "presencia divina"
+    ]
   },
   {
     "date": "2026-01-07",
+    "month": 1,
+    "day": 7,
     "title": "Todo obra para bien",
-    "file": "2026-01-07.json"
+    "reference": "Romanos 8:28",
+    "book": "Romanos",
+    "tags": [
+      "propósito",
+      "confianza",
+      "soberanía"
+    ]
   },
   {
     "date": "2026-01-08",
+    "month": 1,
+    "day": 8,
     "title": "Venid a mí, los cansados",
-    "file": "2026-01-08.json"
+    "reference": "Mateo 11:28",
+    "book": "Mateo",
+    "tags": [
+      "descanso",
+      "gracia",
+      "invitación"
+    ]
   },
   {
     "date": "2026-01-09",
+    "month": 1,
+    "day": 9,
     "title": "Estad quietos y conoced",
-    "file": "2026-01-09.json"
+    "reference": "Salmos 46:10",
+    "book": "Salmos",
+    "tags": [
+      "quietud",
+      "paz",
+      "presencia"
+    ]
   },
   {
     "date": "2026-01-10",
+    "month": 1,
+    "day": 10,
     "title": "Planes de bienestar",
-    "file": "2026-01-10.json"
+    "reference": "Jeremías 29:11",
+    "book": "Jeremías",
+    "tags": [
+      "esperanza",
+      "planes",
+      "futuro"
+    ]
   },
   {
     "date": "2026-01-11",
+    "month": 1,
+    "day": 11,
     "title": "Espíritu de poder",
-    "file": "2026-01-11.json"
+    "reference": "2 Timoteo 1:7",
+    "book": "2 Timoteo",
+    "tags": [
+      "poder",
+      "valentía",
+      "Espíritu Santo"
+    ]
   },
   {
     "date": "2026-01-12",
+    "month": 1,
+    "day": 12,
     "title": "El Señor es mi luz",
-    "file": "2026-01-12.json"
+    "reference": "Salmos 27:1",
+    "book": "Salmos",
+    "tags": [
+      "luz",
+      "protección",
+      "confianza"
+    ]
   },
   {
     "date": "2026-01-13",
+    "month": 1,
+    "day": 13,
     "title": "Renovar las fuerzas",
-    "file": "2026-01-13.json"
+    "reference": "Isaías 40:31",
+    "book": "Isaías",
+    "tags": [
+      "fuerza",
+      "espera",
+      "renovación"
+    ]
   },
   {
     "date": "2026-01-14",
+    "month": 1,
+    "day": 14,
     "title": "Busca primero el reino",
-    "file": "2026-01-14.json"
+    "reference": "Mateo 6:33",
+    "book": "Mateo",
+    "tags": [
+      "prioridades",
+      "reino",
+      "provisión"
+    ]
   },
   {
     "date": "2026-01-15",
+    "month": 1,
+    "day": 15,
     "title": "Lámpara a mis pies",
-    "file": "2026-01-15.json"
+    "reference": "Salmos 119:105",
+    "book": "Salmos",
+    "tags": [
+      "Palabra",
+      "guía",
+      "fe"
+    ]
   },
   {
     "date": "2026-01-16",
+    "month": 1,
+    "day": 16,
     "title": "No te conformes a este mundo",
-    "file": "2026-01-16.json"
+    "reference": "Romanos 12:2",
+    "book": "Romanos",
+    "tags": [
+      "transformación",
+      "mente",
+      "cultura"
+    ]
   },
   {
     "date": "2026-01-17",
+    "month": 1,
+    "day": 17,
     "title": "Guarda tu corazón",
-    "file": "2026-01-17.json"
+    "reference": "Proverbios 4:23",
+    "book": "Proverbios",
+    "tags": [
+      "corazón",
+      "protección",
+      "sabiduría"
+    ]
   },
   {
     "date": "2026-01-18",
+    "month": 1,
+    "day": 18,
     "title": "Mi paz os dejo",
-    "file": "2026-01-18.json"
+    "reference": "Juan 14:27",
+    "book": "Juan",
+    "tags": [
+      "paz",
+      "confianza",
+      "Jesús"
+    ]
   },
   {
     "date": "2026-01-19",
+    "month": 1,
+    "day": 19,
     "title": "Deléitate en el Señor",
-    "file": "2026-01-19.json"
+    "reference": "Salmos 37:4",
+    "book": "Salmos",
+    "tags": [
+      "deleite",
+      "deseos",
+      "adoración"
+    ]
   },
   {
     "date": "2026-01-20",
+    "month": 1,
+    "day": 20,
     "title": "Gozo en las pruebas",
-    "file": "2026-01-20.json"
+    "reference": "Santiago 1:2-3",
+    "book": "Santiago",
+    "tags": [
+      "pruebas",
+      "paciencia",
+      "gozo"
+    ]
   },
   {
     "date": "2026-01-21",
+    "month": 1,
+    "day": 21,
     "title": "Todo tiene su tiempo",
-    "file": "2026-01-21.json"
+    "reference": "Eclesiastés 3:1",
+    "book": "Eclesiastés",
+    "tags": [
+      "tiempo",
+      "paciencia",
+      "sabiduría"
+    ]
   },
   {
     "date": "2026-01-22",
+    "month": 1,
+    "day": 22,
     "title": "Justicia, misericordia y humildad",
-    "file": "2026-01-22.json"
+    "reference": "Miqueas 6:8",
+    "book": "Miqueas",
+    "tags": [
+      "justicia",
+      "misericordia",
+      "humildad"
+    ]
   },
   {
     "date": "2026-01-23",
+    "month": 1,
+    "day": 23,
     "title": "Al abrigo del Altísimo",
-    "file": "2026-01-23.json"
+    "reference": "Salmos 91:1-2",
+    "book": "Salmos",
+    "tags": [
+      "protección",
+      "refugio",
+      "cercanía"
+    ]
   },
   {
     "date": "2026-01-24",
+    "month": 1,
+    "day": 24,
     "title": "Vosotros sois la luz",
-    "file": "2026-01-24.json"
+    "reference": "Mateo 5:14",
+    "book": "Mateo",
+    "tags": [
+      "luz",
+      "identidad",
+      "testimonio"
+    ]
   },
   {
     "date": "2026-01-25",
+    "month": 1,
+    "day": 25,
     "title": "El amor es paciente",
-    "file": "2026-01-25.json"
+    "reference": "1 Corintios 13:4-5",
+    "book": "1 Corintios",
+    "tags": [
+      "amor",
+      "paciencia",
+      "carácter"
+    ]
   },
   {
     "date": "2026-01-26",
+    "month": 1,
+    "day": 26,
     "title": "Cercano a los quebrantados",
-    "file": "2026-01-26.json"
+    "reference": "Salmos 34:18",
+    "book": "Salmos",
+    "tags": [
+      "consuelo",
+      "quebrantamiento",
+      "cercanía"
+    ]
   },
   {
     "date": "2026-01-27",
+    "month": 1,
+    "day": 27,
     "title": "No te canses de hacer el bien",
-    "file": "2026-01-27.json"
+    "reference": "Gálatas 6:9",
+    "book": "Gálatas",
+    "tags": [
+      "perseverancia",
+      "bondad",
+      "cosecha"
+    ]
   },
   {
     "date": "2026-01-28",
+    "month": 1,
+    "day": 28,
     "title": "Encomienda tus obras al Señor",
-    "file": "2026-01-28.json"
+    "reference": "Proverbios 16:3",
+    "book": "Proverbios",
+    "tags": [
+      "entrega",
+      "trabajo",
+      "confianza"
+    ]
   },
   {
     "date": "2026-01-29",
+    "month": 1,
+    "day": 29,
     "title": "Cuando pases por las aguas",
-    "file": "2026-01-29.json"
+    "reference": "Isaías 43:2",
+    "book": "Isaías",
+    "tags": [
+      "dificultades",
+      "protección",
+      "compañía"
+    ]
   },
   {
     "date": "2026-01-30",
+    "month": 1,
+    "day": 30,
     "title": "La verdad os hará libres",
-    "file": "2026-01-30.json"
+    "reference": "Juan 8:32",
+    "book": "Juan",
+    "tags": [
+      "verdad",
+      "libertad",
+      "conocimiento"
+    ]
   },
   {
     "date": "2026-01-31",
+    "month": 1,
+    "day": 31,
     "title": "Maravillosamente formado",
-    "file": "2026-01-31.json"
+    "reference": "Salmos 139:14",
+    "book": "Salmos",
+    "tags": [
+      "identidad",
+      "valor",
+      "creación"
+    ]
   },
   {
     "date": "2026-02-01",
+    "month": 2,
+    "day": 1,
     "title": "Dios de esperanza",
-    "file": "2026-02-01.json"
+    "reference": "Romanos 15:13",
+    "book": "Romanos",
+    "tags": [
+      "esperanza",
+      "gozo",
+      "Espíritu Santo"
+    ]
   },
   {
     "date": "2026-02-02",
+    "month": 2,
+    "day": 2,
     "title": "Hierro con hierro se afila",
-    "file": "2026-02-02.json"
+    "reference": "Proverbios 27:17",
+    "book": "Proverbios",
+    "tags": [
+      "amistad",
+      "crecimiento",
+      "comunidad"
+    ]
   },
   {
     "date": "2026-02-03",
+    "month": 2,
+    "day": 3,
     "title": "Mi socorro viene del Señor",
-    "file": "2026-02-03.json"
+    "reference": "Salmos 121:1-2",
+    "book": "Salmos",
+    "tags": [
+      "socorro",
+      "fe",
+      "creador"
+    ]
   },
   {
     "date": "2026-02-04",
+    "month": 2,
+    "day": 4,
     "title": "Hechura de Dios",
-    "file": "2026-02-04.json"
+    "reference": "Efesios 2:10",
+    "book": "Efesios",
+    "tags": [
+      "propósito",
+      "identidad",
+      "obras"
+    ]
   },
   {
     "date": "2026-02-05",
+    "month": 2,
+    "day": 5,
     "title": "Pedid y se os dará",
-    "file": "2026-02-05.json"
+    "reference": "Mateo 7:7",
+    "book": "Mateo",
+    "tags": [
+      "oración",
+      "búsqueda",
+      "promesa"
+    ]
   },
   {
     "date": "2026-02-06",
+    "month": 2,
+    "day": 6,
     "title": "Bendice, alma mía, al Señor",
-    "file": "2026-02-06.json"
+    "reference": "Salmos 103:1-2",
+    "book": "Salmos",
+    "tags": [
+      "gratitud",
+      "adoración",
+      "memoria"
+    ]
   },
   {
     "date": "2026-02-07",
+    "month": 2,
+    "day": 7,
     "title": "Echa tu ansiedad sobre Él",
-    "file": "2026-02-07.json"
+    "reference": "1 Pedro 5:7",
+    "book": "1 Pedro",
+    "tags": [
+      "ansiedad",
+      "cuidado",
+      "entrega"
+    ]
   },
   {
     "date": "2026-02-08",
+    "month": 2,
+    "day": 8,
     "title": "Un amigo fiel",
-    "file": "2026-02-08.json"
+    "reference": "Proverbios 18:24",
+    "book": "Proverbios",
+    "tags": [
+      "amistad",
+      "lealtad",
+      "relaciones"
+    ]
   },
   {
     "date": "2026-02-09",
+    "month": 2,
+    "day": 9,
     "title": "En el mundo tendréis aflicción",
-    "file": "2026-02-09.json"
+    "reference": "Juan 16:33",
+    "book": "Juan",
+    "tags": [
+      "aflicción",
+      "victoria",
+      "paz"
+    ]
   },
   {
     "date": "2026-02-10",
+    "month": 2,
+    "day": 10,
     "title": "Mi alma tiene sed de ti",
-    "file": "2026-02-10.json"
+    "reference": "Salmos 63:1",
+    "book": "Salmos",
+    "tags": [
+      "sed espiritual",
+      "búsqueda",
+      "desierto"
+    ]
   },
   {
     "date": "2026-02-11",
+    "month": 2,
+    "day": 11,
     "title": "La fe es certeza",
-    "file": "2026-02-11.json"
+    "reference": "Hebreos 11:1",
+    "book": "Hebreos",
+    "tags": [
+      "fe",
+      "certeza",
+      "confianza"
+    ]
   },
   {
     "date": "2026-02-12",
+    "month": 2,
+    "day": 12,
     "title": "Paz perfecta",
-    "file": "2026-02-12.json"
+    "reference": "Isaías 26:3",
+    "book": "Isaías",
+    "tags": [
+      "paz",
+      "mente",
+      "confianza"
+    ]
   },
   {
     "date": "2026-02-13",
+    "month": 2,
+    "day": 13,
     "title": "Las aves del cielo",
-    "file": "2026-02-13.json"
+    "reference": "Mateo 6:26",
+    "book": "Mateo",
+    "tags": [
+      "provisión",
+      "confianza",
+      "ansiedad"
+    ]
   },
   {
     "date": "2026-02-14",
+    "month": 2,
+    "day": 14,
     "title": "Amamos porque Él nos amó primero",
-    "file": "2026-02-14.json"
+    "reference": "1 Juan 4:19",
+    "book": "1 Juan",
+    "tags": [
+      "amor",
+      "Dios",
+      "valentía"
+    ]
   },
   {
     "date": "2026-02-15",
+    "month": 2,
+    "day": 15,
     "title": "Esperanza para el alma abatida",
-    "file": "2026-02-15.json"
+    "reference": "Salmos 42:11",
+    "book": "Salmos",
+    "tags": [
+      "depresión",
+      "esperanza",
+      "alabanza"
+    ]
   },
   {
     "date": "2026-02-16",
+    "month": 2,
+    "day": 16,
     "title": "Hazlo de corazón",
-    "file": "2026-02-16.json"
+    "reference": "Colosenses 3:23",
+    "book": "Colosenses",
+    "tags": [
+      "trabajo",
+      "excelencia",
+      "adoración"
+    ]
   },
   {
     "date": "2026-02-17",
+    "month": 2,
+    "day": 17,
     "title": "Fortaleza y dignidad",
-    "file": "2026-02-17.json"
+    "reference": "Proverbios 31:25",
+    "book": "Proverbios",
+    "tags": [
+      "fortaleza",
+      "futuro",
+      "dignidad"
+    ]
   },
   {
     "date": "2026-02-18",
+    "month": 2,
+    "day": 18,
     "title": "Mi gracia te basta",
-    "file": "2026-02-18.json"
+    "reference": "2 Corintios 12:9",
+    "book": "2 Corintios",
+    "tags": [
+      "gracia",
+      "debilidad",
+      "poder"
+    ]
   },
   {
     "date": "2026-02-19",
+    "month": 2,
+    "day": 19,
     "title": "La senda de la vida",
-    "file": "2026-02-19.json"
+    "reference": "Salmos 16:11",
+    "book": "Salmos",
+    "tags": [
+      "gozo",
+      "presencia",
+      "vida"
+    ]
   },
   {
     "date": "2026-02-20",
+    "month": 2,
+    "day": 20,
     "title": "Dios dirige tus pasos",
-    "file": "2026-02-20.json"
+    "reference": "Proverbios 16:9",
+    "book": "Proverbios",
+    "tags": [
+      "dirección",
+      "planes",
+      "soberanía"
+    ]
   },
   {
     "date": "2026-02-21",
+    "month": 2,
+    "day": 21,
     "title": "Renovar las fuerzas",
-    "file": "2026-02-21.json"
+    "reference": "Isaías 40:31",
+    "book": "Isaías",
+    "tags": [
+      "fortaleza",
+      "esperanza",
+      "renovación",
+      "paciencia"
+    ]
   },
   {
     "date": "2026-02-22",
     "month": 2,
     "day": 22,
     "title": "Guardar la lengua",
-    "book": "Proverbios",
     "reference": "Proverbios 13:3",
+    "book": "Proverbios",
     "tags": [
       "prudencia",
       "palabras",
@@ -278,8 +695,8 @@
     "month": 2,
     "day": 23,
     "title": "Paz en medio de la tormenta",
-    "book": "Juan",
     "reference": "Juan 14:27",
+    "book": "Juan",
     "tags": [
       "paz",
       "confianza",
@@ -293,8 +710,8 @@
     "month": 2,
     "day": 24,
     "title": "Renovados cada mañana",
-    "book": "Lamentaciones",
     "reference": "Lamentaciones 3:22-23",
+    "book": "Lamentaciones",
     "tags": [
       "misericordia",
       "fidelidad",
@@ -308,8 +725,8 @@
     "month": 2,
     "day": 25,
     "title": "La paz que sobrepasa todo entendimiento",
-    "book": "Filipenses",
     "reference": "Filipenses 4:6-7",
+    "book": "Filipenses",
     "tags": [
       "paz",
       "ansiedad",
@@ -323,8 +740,8 @@
     "month": 2,
     "day": 26,
     "title": "Confía en el Señor con todo tu corazón",
-    "book": "Proverbios",
     "reference": "Proverbios 3:5-6",
+    "book": "Proverbios",
     "tags": [
       "confianza",
       "sabiduría",
@@ -335,13 +752,34 @@
   },
   {
     "date": "2026-02-27",
+    "month": 2,
+    "day": 27,
     "title": "Renovar la mente para transformar la vida",
-    "reference": "Romanos 12:2"
+    "reference": "Romanos 12:2",
+    "book": "Romanos",
+    "tags": [
+      "transformación",
+      "mente",
+      "renovación",
+      "Pablo",
+      "identidad"
+    ]
   },
   {
     "date": "2026-02-28",
+    "month": 2,
+    "day": 28,
     "title": "La fuerza que se perfecciona en la debilidad",
-    "reference": "2 Corintios 12:9"
+    "reference": "2 Corintios 12:9",
+    "book": "2 Corintios",
+    "tags": [
+      "gracia",
+      "debilidad",
+      "fortaleza",
+      "Pablo",
+      "confianza",
+      "humildad"
+    ]
   },
   {
     "date": "2026-03-01",
@@ -377,8 +815,19 @@
   },
   {
     "date": "2026-03-03",
+    "month": 3,
+    "day": 3,
     "title": "Lámpara para el camino",
-    "file": "2026-03-03.json"
+    "reference": "Salmos 119:105",
+    "book": "Salmos",
+    "tags": [
+      "guía",
+      "Palabra de Dios",
+      "fe",
+      "confianza",
+      "dirección",
+      "Salmos"
+    ]
   },
   {
     "date": "2026-03-04",
@@ -412,6 +861,24 @@
       "incertidumbre",
       "Salmos",
       "camino"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "month": 3,
+    "day": 6,
+    "title": "La fuerza que viene del silencio",
+    "reference": "Isaías 30:15",
+    "book": "Isaías",
+    "tags": [
+      "descanso",
+      "confianza",
+      "quietud",
+      "fortaleza",
+      "Isaías",
+      "ansiedad",
+      "paz",
+      "profetas"
     ]
   }
 ]
